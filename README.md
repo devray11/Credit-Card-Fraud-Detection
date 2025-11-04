@@ -18,5 +18,5 @@ The system integrates multiple models and uses advanced feature engineering to e
 * **Machine Learning Models:** Random Forest, XGBoost
 * **Core Libraries (Inferred):** Scikit-learn, Pandas, NumPy, XGBoost
 * **Key Techniques:** Ensemble Learning, Real-Time Prediction, Geospatial Feature Engineering
-* 
+  
 ![Credit Card Fraud Detection Output](https://github.com/devray11/Credit-Card-Fraud-Detection/blob/715378ed953798059522895bd486246a13f9088d/Output-Image.png)
